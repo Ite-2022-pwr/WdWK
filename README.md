@@ -1,4 +1,4 @@
-# Wprowadzenie do wysokowydajnych komputerów
+# Wprowadzenie do wysokowydajnych komputerów - laboratoria
 
 Informatyka techniczna, semestr 4, lato 2024
 
